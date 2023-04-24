@@ -89,7 +89,7 @@
 /* -----Modifier Styles------ */
 /* Completed */
 .item__label_completed{
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 /* Edit Task */
