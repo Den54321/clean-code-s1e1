@@ -2,7 +2,7 @@
 .page {
   background-color: #f8f8f8;
   color: #333;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
 }
 /* -----Block ant Elements Style----- */
 .about__title{
@@ -30,7 +30,7 @@
   color: #888;
   font-size: 15px;
   width: 60px;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
   cursor: pointer;
   vertical-align: middle;
 }
@@ -67,7 +67,7 @@
   border: 1px solid #ddd;
   background: #fff;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
   color: #888;
   vertical-align: middle;
   width: 226px;
@@ -141,7 +141,7 @@
   border: 1px solid #ddd;
   background: #fff;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
   color: #888;
   vertical-align: middle;
 }
