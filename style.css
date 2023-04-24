@@ -71,7 +71,7 @@
   color: #888;
   vertical-align: middle;
   width: 226px;
-  display: none
+  display: none;
 }
 .item__input:focus {
   color: #333;
@@ -95,7 +95,7 @@
 /* Edit Task */
 .item__input_edit{
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 .item__label_edit{
   display: none;
